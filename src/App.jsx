@@ -12,7 +12,7 @@ const App = () => {
 
 
   return (
-    
+    .
         <BrowserRouter>
          
         <div className="relative z-0 bg-primary" >
@@ -26,7 +26,7 @@ const App = () => {
           <Works />
           <Feedbacks />
           <div className="relative z-0">
-            <Contact position={[0, -1.4, 0]} opacity={0.25} scale={10} blur={1.5} far={1.4} />
+            <Contact position={[0, -1.4, 0]} opacity={0.25} \scale={10} blur={1.5} far={1.4} />
             <StarsCanvas />
           </div>
       </div>
